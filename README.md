@@ -13,3 +13,5 @@ pip install -r requirements.txt
 # python export.py --weights yolov5s.pt --include onnx --dynamic
 python server.py
 ```
+
+endpoint : localhost:5000/detect
